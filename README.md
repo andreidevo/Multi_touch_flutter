@@ -1,4 +1,4 @@
-# multi_touch_flutter
+# Multi_touch_flutter
 
 
 Hey!!!! IT IS Multi-touch flutter painter! 
@@ -69,4 +69,4 @@ Main part: (Other parts get in Dart file)
   }
 ```
 
-
+# Rait this repo :3 ThankSssssss
