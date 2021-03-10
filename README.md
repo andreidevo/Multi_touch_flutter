@@ -3,7 +3,7 @@
 
 Hey!!!! IT IS Multi-touch flutter painter! 
 
-Just copy-paste this screen and conteniue develiping your idea!
+Just copy-paste this screen and conteniue developing your idea!
 
 (get Star to this repo :)
 
@@ -69,4 +69,3 @@ Main part: (Other parts get in Dart file)
   }
 ```
 
-# Rait this repo :3 ThankSssssss
